@@ -7,6 +7,9 @@ This year’s [React Conf](https://conf.reactjs.org/) took place on October 25 a
 
 <br>
 
+<iframe frameborder="0" height="442" scrolling="no" src="https://e.infogram.com/a6e61494-d9bd-4777-952c-898f5218950d?src=embed" style="border:none;" title="Dzīvokļu piedāvājumi Rīgā" width="550"></iframe>
+
+end
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-QO-KO90iQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sophie Alpert and Dan Abramov kicked off Day 1 with their keynote, React Today and Tomorrow. In the talk, they introduced [Hooks](/docs/hooks-intro.html), which are a new proposal that adds the ability to access features such as state without writing a JavaScript class. Hooks promise to dramatically simplify the code required for React components and are currently available in a React alpha release.
